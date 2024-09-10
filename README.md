@@ -1,2 +1,2 @@
-# lugvitc_c0d
-c0d 2024
+# BrainRot
+A medium/easy level flag
