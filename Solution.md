@@ -14,6 +14,6 @@ steghide extract -sf skibidi.jpg
 passphrase: skibidi
 
 gives the a passkey
-decrypt the passkey using ROT13
+decrypt the passkey using ROT13 (the flag's name is BrainRot a direct clue)
 
 use the passkey $%skibidi@9019 on the zipfile to get the flag
