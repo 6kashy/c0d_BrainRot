@@ -1,10 +1,13 @@
-#BrainRot
+# BrainRot
 
 the given image consists of 2 files and a hint
 
 use the cat command to read the given hint
 
-use binwalk -e skibidi.jpg
+use
+```sh
+binwalk -e skibidi.jpg
+```
 extract the 2 files aka the zip file
 
 look at the given hint about mentioniing "using name as password"
