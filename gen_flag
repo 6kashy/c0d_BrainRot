@@ -1,0 +1,12 @@
+#! /bin/bash
+flag="$1"
+echo $flag > /root/bin
+zip /root/1245.zip /root/bin -P $%skibidi@9019
+echo "$%fxvovqv@9019" > /root/password.txt
+# steghide embed -cf /root/skibidi.jpeg -ef /root/1245.zip -p skibidi
+# cat /root/skibidi.jpeg /root/password.txt > /root/skibidi.jpeg
+steghide embed -cf /root/skibidi.jpg -ef /root/password.txt -p skibidi
+cat /root/skibidi.jpg >> /root/_skibidi.jpg
+cat /root/1245.zip >> /root/_skibidi.jpg
+echo 'Using ur name as a p@ssword? big no no. bad idea. hax0rs can ez guess it, using stuff like ur info or basic name lists. if u wanna be safe, make a str0ng p@ssword - toss in letters, numb3rs, special chars. no ez details! keep the baddies out of ur account' >> /root/_skibidi.jpg
+cp /root/_skibidi.jpg /root/serve/_skibidi.jpg
